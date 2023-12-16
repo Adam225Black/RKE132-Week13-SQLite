@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZntE75zeLheeWHKMz2OCElmNE3kzG5E9xzHbrD8AMwhSRy/Xpmnd59oiAP0teX1puDaJEtBf0zjWRaZ7TD0QsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadam\\source\\repos\\Week13SQLiteDB\\Week13SQLiteDB\\Week13SQLiteDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadam\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\vadam\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
